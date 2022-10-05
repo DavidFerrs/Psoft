@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Psoft.iml" filepath="$PROJECT_DIR$/.idea/Psoft.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Psoft-Aula02/Psoft-Aula02.iml" filepath="$PROJECT_DIR$/Psoft-Aula02/Psoft-Aula02.iml" />
     </modules>
   </component>
 </project>
